@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-final_chat-tiempo-real",
+  "version": "1.0.0",
+  "description": "Chat en tiempo real usando Node.js y WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yatusabebeibe/proyecto-final_chat-tiempo-real"
+  },
+  "keywords": [],
+  "author": "Jesús Temprano Gallego",
+  "license": "ISC",
+  "type": "module"
+}
